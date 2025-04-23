@@ -67,7 +67,7 @@ Want to add cool new prompt use-cases or improve the instructions? PRs are welco
 - Submit a pull request with a description
 
 ## 💬 Connect
-Created with ❤️ by (Greshma Shaji)[https://github.com/GreshmaShaji]
+Created with ❤️ by [Greshma Shaji](https://github.com/GreshmaShaji)
 
 If this helped you, give the repo a ⭐ and share with friends!
 
